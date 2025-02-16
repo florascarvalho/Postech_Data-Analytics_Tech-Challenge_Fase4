@@ -170,7 +170,7 @@ with abas[2]:
     st.title("📄 Notebook utilizado para a modelagem em PDF")
 
     # Caminho do arquivo PDF (certifique-se de que está no mesmo diretório)
-    pdf_path = "codigo.pdf"
+    pdf_path = "streamlit/codigo.pdf"
 
     # Abrir o arquivo PDF no navegador
     with open(pdf_path, "rb") as file:
