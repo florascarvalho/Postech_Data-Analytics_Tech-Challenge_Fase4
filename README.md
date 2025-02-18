@@ -18,7 +18,6 @@ O desafio consiste em analisar dados históricos do preço do petróleo Brent, d
   <li><a href="https://github.com/florascarvalho/Postech_Data-Analytics_Tech-Challenge_Fase4/tree/main/machine_learning">Notebook do Machine Learning</a>: Contém o Notebook utilizado para desenvolvimento do modelo do Machine Learning</li>
   <li><a href="https://github.com/florascarvalho/Postech_Data-Analytics_Tech-Challenge_Fase4/tree/main/modelo">Modelo ML</a>: Arquivo do modelo do Machine Learning</li>
 </ul>
-Notebook utilizado para desenvolvimento do modelo do Machine Learning</li>
   <li><a href="https://github.com/florascarvalho/Postech_Data-Analytics_Tech-Challenge_Fase4/tree/main/streamlit">Base Streamlit</a>: Todos os arquivos em python e imagens utilizadas para gerar a página no Streamlit</li>
 </ul>
 
