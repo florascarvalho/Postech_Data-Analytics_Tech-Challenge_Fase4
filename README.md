@@ -26,7 +26,8 @@ O desafio consiste em analisar dados históricos do preço do petróleo Brent, d
 <a href="https://postechdata-analyticstech-challengefase4-rm354000.streamlit.app/">Link da aplicação no Streamlit</a>  
 </ul>
 
-<h3>Link do vídeo no Youtube</h3>
+<h3>Youtube</h3>
 <ul>
+  <a href="https://youtu.be/s2srLkHuJs4">Link do vídeo no Youtube</a>  
 </ul>
 
